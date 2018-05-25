@@ -1,0 +1,5 @@
+Source: https://github.com/ababik/Remute
+NuGet: https://www.nuget.org/packages/Remute
+Language: C#
+Title: Remute
+Description: Remute .NET tool is intended to produce new immutable object applying lambda expressions to existing immutable object.
